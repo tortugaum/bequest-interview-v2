@@ -16,3 +16,9 @@ npx nx serve frontend
 ```sh
 npx nx serve backend
 ```
+
+## Tips:
+To get the Document content from the editor, use
+```
+editor.saveAsBlob('Docx')
+```
