@@ -1,10 +1,7 @@
 # Bequest Interview Question
+Play the video below, make sure to enable sound :)
 
-
-https://github.com/user-attachments/assets/8a6af3ec-b5d0-43c1-af3f-09b572b9f41d
-
-
-
+https://github.com/user-attachments/assets/ca29c857-f995-4241-a709-a85ad87b07e3
 
 ## Run App
 
@@ -15,10 +12,4 @@ npx nx serve frontend
 
 ```sh
 npx nx serve backend
-```
-
-## Tips:
-To get the Document content from the editor, use
-```
-editor.saveAsBlob('Docx')
 ```
